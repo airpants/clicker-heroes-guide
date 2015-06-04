@@ -297,7 +297,7 @@ header li:hover {
   background: linear-gradient(top, #C3001D 0%,#950119 100%);
 }
 
-a.beginner-button {
+a.button {
 	-webkit-font-smoothing: antialiased;
 	background: url(../images/Computer_mouse_Cursor_16.png) no-repeat;
 	font-weight: normal;
@@ -306,22 +306,16 @@ a.beginner-button {
 	height: 30px;
 }
 
-a.midgame-button {
-	-webkit-font-smoothing: antialiased;
-	background: url(../images/Warrior_with_Sword_and_Shield_16.png) no-repeat;
-	font-weight: normal;
-	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
-	padding: 2px 2px 2px 22px;
-	height: 30px;
+a.earlygame {
+	background: url(../images/Man_with_Sword_16.png) no-repeat;
 }
 
-a.lategame-button {
-	-webkit-font-smoothing: antialiased;
+a.midgame {
+	background: url(../images/Warrior_with_Sword_and_Shield_16.png) no-repeat;
+}
+
+a.lategame {
 	background: url(../images/Oriental_man_with_a_sword_16.png) no-repeat;
-	font-weight: normal;
-	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
-	padding: 2px 2px 2px 22px;
-	height: 30px;
 }
 
 a.github {
