@@ -86,7 +86,7 @@ a:hover {
 }
 
 a small {
-	font-size: 12px;
+	font-size: 8px;
 }
 
 em {
@@ -322,7 +322,7 @@ a.github {
 	background: url(../images/octocat-small.png) no-repeat 1px;
 }
 
-a.buttons:hover {
+a.button:hover {
 	color: #fff;
 	text-decoration: none;
 }
